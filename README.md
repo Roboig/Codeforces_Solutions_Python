@@ -8,4 +8,5 @@ List of codeforces solution in python.
 | 248A | Cupboards | A | [View Code](./Group_A_Questions/Cupboards.py) |
 | 155A | I_love_\%username\% | A | [View Code](./Group_A_Questions/I_love_%5C%25username%5C%25.py) |
 | 116A | Tram | A | [View Code](./Group_A_Questions/Tram.py) |
+| 339A | Helpful Maths | A | [View Code](./Group_A_Questions/Helpful_Maths.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
