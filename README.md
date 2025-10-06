@@ -9,4 +9,5 @@ List of codeforces solution in python.
 | 155A | I_love_\%username\% | A | [View Code](./Group_A_Questions/I_love_%5C%25username%5C%25.py) |
 | 116A | Tram | A | [View Code](./Group_A_Questions/Tram.py) |
 | 339A | Helpful Maths | A | [View Code](./Group_A_Questions/Helpful_Maths.py) |
+| 228A | Is your horseshoe on the other hoof? | A | [View Code](./Group_A_Questions/is_your_horseshoe_on_the_other_hoof.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
