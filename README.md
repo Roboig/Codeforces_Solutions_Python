@@ -13,4 +13,5 @@ List of codeforces solution in python.
 | 71A | Way Too Long Words | A | [View Code](./Group_A_Questions/Way_Too_Long_Words.py) |
 | 236A | Boy or Girl | A | [View Code](./Group_A_Questions/Boy_or_Girl.py) |
 | 141A | Amusing Joke | A | [View Code](./Group_A_Questions/Amusing_Joke.py) |
+| 151A | Soft Drinking | A | [View Code](./Group_A_Questions/Soft_Drinking.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
