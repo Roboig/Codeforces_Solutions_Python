@@ -14,4 +14,5 @@ List of codeforces solution in python.
 | 236A | Boy or Girl | A | [View Code](./Group_A_Questions/Boy_or_Girl.py) |
 | 141A | Amusing Joke | A | [View Code](./Group_A_Questions/Amusing_Joke.py) |
 | 151A | Soft Drinking | A | [View Code](./Group_A_Questions/Soft_Drinking.py) |
+| 133A | HQ9+ | A | [View Code](./Group_A_Questions/HQ9%2B.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
