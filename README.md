@@ -18,5 +18,6 @@ List of codeforces solution in python.
 | 112A | Petya and Strings | A | [View Code](./Group_A_Questions/Petya_and_Strings.py) |
 | 231A | Team | A | [View Code](./Group_A_Questions/Team.py) |
 | 282A | Bit++ | A | [View Code](./Group_A_Questions/Bit%2B%2B.py) |
+| 272A | Dima and Friends | A | [View Code](./Group_A_Questions/Dima_and_Friends.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
