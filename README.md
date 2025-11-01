@@ -20,5 +20,6 @@ List of codeforces solution in python.
 | 282A | Bit++ | A | [View Code](./Group_A_Questions/Bit%2B%2B.py) |
 | 272A | Dima and Friends | A | [View Code](./Group_A_Questions/Dima_and_Friends.py) |
 | 450A | Jzzhu and Children | A | [View Code](./Group_A_Questions/Jzzhu_and_Children.py) |
+| 165A | Supercentral Point | A | [View Code](./Group_A_Questions/Supercentral_Point.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
