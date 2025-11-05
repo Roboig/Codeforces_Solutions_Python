@@ -24,5 +24,6 @@ List of codeforces solution in python.
 | 139A | Petr and Book | A | [View Code](./Group_A_Questions/Petr_and_Book.py) |
 | 224A | Parallelepiped | A | [View Code](./Group_A_Questions/Parallelepiped.py) |
 | 34A | Reconnaissance 2 | A | [View Code](./Group_A_Questions/Reconnaissance_2.py) |
+| 318A | Even Odds | A | [View Code](./Group_A_Questions/Even_Odds.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
