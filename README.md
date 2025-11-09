@@ -30,3 +30,4 @@ List of codeforces solution in python.
 | 352A |  Jeff and Digits | A | [View Code](./Group_A_Questions/Jeff_and_Digits.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
+| 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
