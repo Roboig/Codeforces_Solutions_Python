@@ -31,6 +31,7 @@ List of codeforces solution in python.
 | 320A |  Magic Numbers | A | [View Code](./Group_A_Questions/Magic_Numbers.py) |
 | 41A |  Translation | A | [View Code](./Group_A_Questions/Translation.py) |
 | 43A |  Football | A | [View Code](./Group_A_Questions/Football.py) |
+| 215A |  Bicycle Chain | A | [View Code](./Group_A_Questions/Bicycle_Chain.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
