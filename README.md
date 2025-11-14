@@ -35,3 +35,4 @@ List of codeforces solution in python.
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
+| 34B | Sale | B | [View Code](./Group_B_Questions/Sale.py) |
