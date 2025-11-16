@@ -26,13 +26,14 @@ List of codeforces solution in python.
 | 34A | Reconnaissance 2 | A | [View Code](./Group_A_Questions/Reconnaissance_2.py) |
 | 318A | Even Odds | A | [View Code](./Group_A_Questions/Even_Odds.py) |
 | 205A | Little Elephant and Rozdil | A | [View Code](./Group_A_Questions/Little_Elephant_and_Rozdil.py) |
-| 199A |  Hexadecimal's theorem | A | [View Code](./Group_A_Questions/Hexadecimal's_theorem.py) |
-| 352A |  Jeff and Digits | A | [View Code](./Group_A_Questions/Jeff_and_Digits.py) |
-| 320A |  Magic Numbers | A | [View Code](./Group_A_Questions/Magic_Numbers.py) |
-| 41A |  Translation | A | [View Code](./Group_A_Questions/Translation.py) |
-| 43A |  Football | A | [View Code](./Group_A_Questions/Football.py) |
-| 215A |  Bicycle Chain | A | [View Code](./Group_A_Questions/Bicycle_Chain.py) |
-| 214A |  System of Equations | A | [View Code](./Group_A_Questions/System_of_Equations.py) |
+| 199A | Hexadecimal's theorem | A | [View Code](./Group_A_Questions/Hexadecimal's_theorem.py) |
+| 352A | Jeff and Digits | A | [View Code](./Group_A_Questions/Jeff_and_Digits.py) |
+| 320A | Magic Numbers | A | [View Code](./Group_A_Questions/Magic_Numbers.py) |
+| 41A | Translation | A | [View Code](./Group_A_Questions/Translation.py) |
+| 43A | Football | A | [View Code](./Group_A_Questions/Football.py) |
+| 215A | Bicycle Chain | A | [View Code](./Group_A_Questions/Bicycle_Chain.py) |
+| 214A | System of Equations | A | [View Code](./Group_A_Questions/System_of_Equations.py) |
+| 149A | Business trip | A | [View Code](./Group_A_Questions/Business_trip.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
