@@ -39,6 +39,7 @@ List of codeforces solution in python.
 | 124A | The number of positions | A | [View Code](./Group_A_Questions/The_number_of_positions.py) |
 | 96A | Football | A | [View Code](./Group_A_Questions/Football_96A.py) |
 | 118A | String Task | A | [View Code](./Group_A_Questions/String_Task.py) |
+| 221A | Little Elephant and Function | A | [View Code](./Group_A_Questions/Little_Elephant_and_Function.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
