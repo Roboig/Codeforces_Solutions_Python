@@ -44,3 +44,4 @@ List of codeforces solution in python.
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
 | 34B | Sale | B | [View Code](./Group_B_Questions/Sale.py) |
+| 118B | Present from Lena | B | [View Code](./Group_B_Questions/Present_from_Lena.py) |
