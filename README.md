@@ -48,3 +48,4 @@ List of codeforces solution in python.
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
 | 34B | Sale | B | [View Code](./Group_B_Questions/Sale.py) |
 | 118B | Present from Lena | B | [View Code](./Group_B_Questions/Present_from_Lena.py) |
+| 218B | Airport | B | [View Code](./Group_B_Questions/Airport.py) |
