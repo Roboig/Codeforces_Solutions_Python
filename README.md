@@ -43,6 +43,7 @@ List of codeforces solution in python.
 | 230A | Dragons | A | [View Code](./Group_A_Questions/Dragons.py) |
 | 337A | Puzzles | A | [View Code](./Group_A_Questions/Puzzles.py) |
 | 58A | Chat room | A | [View Code](./Group_A_Questions/Chat_room.py) |
+| 445A | DZY Loves Chessboard | A | [View Code](./Group_A_Questions/DZY_Loves_Chessboard.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
