@@ -52,3 +52,4 @@ List of codeforces solution in python.
 | 218B | Airport | B | [View Code](./Group_B_Questions/Airport.py) |
 | 459B | Pashmak and Flowers | B | [View Code](./Group_B_Questions/Pashmak_and_Flowers.py) |
 | 352B | Jeff and Periods | B | [View Code](./Group_B_Questions/Jeff_and_Periods.py) |
+| 276B | Little Girl and Game | B | [View Code](./Group_B_Questions/Little_Girl_and_Game.py) |
