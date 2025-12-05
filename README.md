@@ -54,3 +54,4 @@ List of codeforces solution in python.
 | 352B | Jeff and Periods | B | [View Code](./Group_B_Questions/Jeff_and_Periods.py) |
 | 276B | Little Girl and Game | B | [View Code](./Group_B_Questions/Little_Girl_and_Game.py) |
 | 298B | Sail | B | [View Code](./Group_B_Questions/Sail.py) |
+| 431B | Shower Line | B | [View Code](./Group_B_Questions/Shower_Line.py) |
