@@ -47,6 +47,7 @@ List of codeforces solution in python.
 | 222A | Shooshuns and Sequence | A | [View Code](./Group_A_Questions/Shooshuns_and_Sequence.py) |
 | 342A | Xenia and Divisors | A | [View Code](./Group_A_Questions/Xenai_and_Divisors) |
 | 433A | Kitahara Haruki's Gift | A | [View Code](./Group_A_Questions/Kitahara_Haruki's_Gift.py) |
+| 186A | Comparing Strings | A | [View Code](./Group_A_Questions/Comparing_Strings.py) |
 | 200B | Drinks | B | [View Code](./Group_B_Questions/Drinks.py) |
 | 227B | Effective Approach | B | [View Code](./Group_B_Questions/Effective_Approach.py) |
 | 339B | Xenia and Ringroad | B | [View Code](./Group_B_Questions/Xenia_and_Ringroad.py) |
