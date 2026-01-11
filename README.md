@@ -60,3 +60,4 @@ List of codeforces solution in python.
 | 298B | Sail | B | [View Code](./Group_B_Questions/Sail.py) |
 | 431B | Shower Line | B | [View Code](./Group_B_Questions/Shower_Line.py) |
 | 43B | Letter | B | [View Code](./Group_B_Questions/Letter.py) |
+| 327B | Hungry Sequence | B | [View Code](./Group_B_Questions/Hungry_Sequence.py) |
